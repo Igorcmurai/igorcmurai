@@ -4,10 +4,10 @@
 
 **Front-end** **e** **UX/UI Design**.
 ##
-| Desenvolvimento | Design & Interface |
+| Desenvolvimento | Design |
 | :--- | :--- |
-| HTML5 & CSS3 | UI/UX Design |
-| JavaScript (ES6+) | Prototipagem |
+| HTML e CSS | UI/UX Design |
+| JavaScript | Prototipagem |
 | React.js | Design Systems |
 ##
 <picture>
