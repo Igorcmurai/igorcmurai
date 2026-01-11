@@ -17,16 +17,16 @@
     <tr>
       <td align="center">
         <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,js,html,css&seq=1" height="45" alt="Development Icons"/>
-        </a>
+        <img src="./assets/html.svg" width="50" alt="HTML" />&nbsp;
+        <img src="./assets/css.svg" width="50" alt="CSS" />&nbsp;
+        <img src="./assets/js.svg" width="50" alt="JavaScript" />&nbsp;
+        <img src="./assets/react.svg" width="50" alt="React" />
         <br><br>
       </td>
       <td align="center">
         <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma,framer&seq=1" height="45" alt="Design Icons"/>
-        </a>
+        <img src="./assets/figma.svg" width="50" alt="Figma" />&nbsp;
+        <img src="./assets/framer.svg" width="50" alt="Framer" />
         <br><br>
       </td>
     </tr>
