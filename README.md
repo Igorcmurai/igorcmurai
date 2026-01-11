@@ -16,16 +16,21 @@
 
   <table>
     <tr>
-      <th align="center">Development</th>
-      <th align="center">Design</th>
+      <th width="50%" align="center">Development</th>
+      <th width="50%" align="center">Design</th>
     </tr>
     <tr>
-      <td align="center">React.js & JavaScript</td>
-      <td align="center">Figma & Framer</td>
-    </tr>
-    <tr>
-      <td align="center">HTML5 & CSS3</td>
-      <td align="center">Design Systems</td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+        <img src="https://img.shields.io/badge/framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer">
+        <img src="https://img.shields.io/badge/Design%20Systems-555555?style=for-the-badge&logo=design&logoColor=white" alt="Design Systems">
+      </td>
     </tr>
   </table>
 
