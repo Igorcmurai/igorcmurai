@@ -4,12 +4,7 @@
   <p><strong>UX/UI Designer • Front-end Developer</strong></p>
   
   <p>
-    <a href="https://www.linkedin.com/in/igorcmurai" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/>
-    </a>
-    <a href="https://www.behance.net/igorcmurai" target="_blank">
-      <img src="https://img.shields.io/badge/behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" height="25"/>
-    </a>
+    <a href="https://www.linkedin.com/in/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/></a>&nbsp;<a href="https://www.behance.net/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" height="25"/></a>
   </p>
 
   <br>
@@ -31,6 +26,8 @@
         <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/>
+        </a>
+        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=framer" height="45" alt="Framer"/>
         </a>
         <br><br>
