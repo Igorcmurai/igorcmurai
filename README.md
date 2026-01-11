@@ -16,18 +16,23 @@
 
   <table width="100%">
     <tr>
-      <th width="50%" align="center"><h3>Development</h3></th>
-      <th width="50%" align="center"><h3>Design</h3></th>
+      <th width="50%" align="center">Development</th>
+      <th width="50%" align="center">Design</th>
     </tr>
     <tr>
       <td align="center">
         <br>
-        <img src="https://skillicons.dev/icons?i=react,js,html,css" height="45" alt="Development Icons" />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,js,html,css" height="45" alt="Development Icons"/>
+        </a>
         <br><br>
       </td>
       <td align="center">
         <br>
-        <img src="https://skillicons.dev/icons?i=figma,framer" height="45" alt="Design Icons" />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/>
+          <img src="https://skillicons.dev/icons?i=framer" height="45" alt="Framer"/>
+        </a>
         <br><br>
       </td>
     </tr>
