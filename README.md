@@ -16,22 +16,33 @@
 
   <table width="100%">
     <tr>
-      <th width="50%" align="center">Development</th>
-      <th width="50%" align="center">Design</th>
+      <th width="50%" align="center"><h3>Development</h3></th>
+      <th width="50%" align="center"><h3>Design</h3></th>
     </tr>
     <tr>
-      <td align="center" valign="middle">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>&nbsp;
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <td valign="top">
+        <div align="center">
+          <br>
+          <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" valign="middle"/>&nbsp; <b>React.js</b>
+          <br><br>
+          <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" valign="middle"/>&nbsp; <b>JavaScript</b>
+          <br><br>
+          <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" valign="middle"/>&nbsp; <b>HTML5</b>
+          <br><br>
+          <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" valign="middle"/>&nbsp; <b>CSS3</b>
+          <br><br>
+        </div>
       </td>
-      <td align="center" valign="middle">
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;
-        <img src="https://img.shields.io/badge/framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Design%20Systems-555555?style=for-the-badge&logo=design&logoColor=white" alt="Design Systems"/>
+      <td valign="top">
+        <div align="center">
+          <br>
+          <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" valign="middle"/>&nbsp; <b>Figma</b>
+          <br><br>
+          <img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer" valign="middle"/>&nbsp; <b>Framer</b>
+          <br><br>
+          <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="Design Systems" valign="middle"/>&nbsp; <b>Design Systems</b>
+          <br><br>
+        </div>
       </td>
     </tr>
   </table>
