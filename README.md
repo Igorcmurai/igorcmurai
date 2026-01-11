@@ -1,11 +1,9 @@
 <div align="center">
-  <h1>Igor Cerqueira Murai</h1>
+  <h2>Igor Cerqueira Murai</h2>
   
-  <p><strong>UX/UI Designer | Front-end Developer</strong></p>
+  <p><strong>Front-End Developer | UX/UI Designer</strong></p>
   
-  <p>
-    <a href="https://www.linkedin.com/in/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/></a>&nbsp;<a href="https://www.behance.net/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" height="25"/></a>
-  </p>
+  <p><a href="https://www.linkedin.com/in/igorcmurai" target="_blank"><img src="./assets/linkedin.svg" width="60" alt="LinkedIn" /></a>&nbsp;<a href="https://www.behance.net/igorcmurai" target="_blank"><img src="./assets/behance.svg" width="60" alt="Behance" /></a></p>
 
   <br>
 
@@ -17,16 +15,16 @@
     <tr>
       <td align="center">
         <br>
-        <img src="./assets/html.svg" width="50" alt="HTML" />&nbsp;
-        <img src="./assets/css.svg" width="50" alt="CSS" />&nbsp;
-        <img src="./assets/js.svg" width="50" alt="JavaScript" />&nbsp;
-        <img src="./assets/react.svg" width="50" alt="React" />
+        <img src="./assets/html.svg" width="60" alt="HTML" />&nbsp;
+        <img src="./assets/css.svg" width="60" alt="CSS" />&nbsp;
+        <img src="./assets/js.svg" width="60" alt="JavaScript" />&nbsp;
+        <img src="./assets/react.svg" width="60" alt="React" />
         <br><br>
       </td>
       <td align="center">
         <br>
-        <img src="./assets/figma.svg" width="50" alt="Figma" />&nbsp;
-        <img src="./assets/framer.svg" width="50" alt="Framer" />
+        <img src="./assets/figma.svg" width="59" alt="Figma" />&nbsp;
+        <img src="./assets/framer.svg" width="59" alt="Framer" />
         <br><br>
       </td>
     </tr>
