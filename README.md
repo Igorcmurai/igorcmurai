@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Igor Cerqueira Murai</h1>
   
-  <p><strong>UX/UI Designer  |  Front-end Developer</strong></p>
+  <p><strong>UX/UI Designer • Front-end Developer</strong></p>
   
   <p>
     <a href="https://www.linkedin.com/in/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/></a>&nbsp;<a href="https://www.behance.net/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" height="25"/></a>
@@ -18,17 +18,14 @@
       <td align="center">
         <br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,js,html,css" height="45" alt="Development Icons"/>
+          <img src="https://skillicons.dev/icons?i=react,js,html,css&seq=1" height="45" alt="Development Icons"/>
         </a>
         <br><br>
       </td>
       <td align="center">
         <br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/>
-        </a>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=framer" height="45" alt="Framer"/>
+          <img src="https://skillicons.dev/icons?i=figma,framer&seq=1" height="45" alt="Design Icons"/>
         </a>
         <br><br>
       </td>
