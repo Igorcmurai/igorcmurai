@@ -20,29 +20,15 @@
       <th width="50%" align="center"><h3>Design</h3></th>
     </tr>
     <tr>
-      <td valign="top">
-        <div align="center">
-          <br>
-          <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" valign="middle"/>&nbsp; <b>React.js</b>
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" valign="middle"/>&nbsp; <b>JavaScript</b>
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" valign="middle"/>&nbsp; <b>HTML5</b>
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" valign="middle"/>&nbsp; <b>CSS3</b>
-          <br><br>
-        </div>
+      <td align="center">
+        <br>
+        <img src="https://skillicons.dev/icons?i=react,js,html,css" height="45" alt="Development Icons" />
+        <br><br>
       </td>
-      <td valign="top">
-        <div align="center">
-          <br>
-          <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" valign="middle"/>&nbsp; <b>Figma</b>
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer" valign="middle"/>&nbsp; <b>Framer</b>
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="Design Systems" valign="middle"/>&nbsp; <b>Design Systems</b>
-          <br><br>
-        </div>
+      <td align="center">
+        <br>
+        <img src="https://skillicons.dev/icons?i=figma,framer" height="45" alt="Design Icons" />
+        <br><br>
       </td>
     </tr>
   </table>
