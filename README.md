@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Igor Cerqueira Murai</h2>
   
-  <p><strong>UX/UI Designer | Front-End Developer</strong></p>
+  <p><strong>UX/UI Designer | Front-end Developer</strong></p>
   
   <p><a href="https://www.linkedin.com/in/igorcmurai" target="_blank"><img src="./assets/linkedin.svg" width="60" alt="LinkedIn" /></a>&nbsp;<a href="https://www.behance.net/igorcmurai" target="_blank"><img src="./assets/behance.svg" width="60" alt="Behance" /></a></p>
 
