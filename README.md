@@ -4,7 +4,7 @@
   
   <br><br>
 
-  <a href="https://www.linkedin.com/in/igorcmurai/" target="_blank"><img src="./assets/linkedin.svg" height="70" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/igorcmurai" target="_blank"><img src="./assets/behance.svg" height="70" alt="Behance" /></a>
+  <a href="https://www.linkedin.com/in/igorcmurai/" target="_blank"><img src="./assets/linkedin.svg" height="65" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/igorcmurai" target="_blank"><img src="./assets/behance.svg" height="65" alt="Behance" /></a>
 
   <br>
 
