@@ -4,7 +4,7 @@ Estudante de Tecnologia com foco na união entre **UX/UI Design** e **Desenvolvi
 
 <br>
 
-### Ferramentas e Tecnologias
+### Ferramentas
 
 | Desenvolvimento | Design |
 | :--- | :--- |
