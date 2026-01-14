@@ -1,7 +1,9 @@
 <div align="center">
   <img src="./assets/header.svg" width="60%" alt="header" />
   <br><br>
-  <img src="./assets/tools.svg" width="70%" alt="tools" />
+  <img src="./assets/tools title.svg" width="25%" alt="tools title" />
+  <br><br>
+  <img src="./assets/tools.svg" width="80%" alt="tools" />
   <br><br>
   <img src="./assets/contribuicao title.svg" width="25%" alt="contribuicao title" />
   <br>
