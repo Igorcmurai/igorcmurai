@@ -1,4 +1,4 @@
-## Igor C. Murai
+# Igor C. Murai
 
 Estudante de Tecnologia com foco na união entre **UX/UI Design** e **Desenvolvimento Front-end**
 
@@ -14,14 +14,16 @@ Estudante de Tecnologia com foco na união entre **UX/UI Design** e **Desenvolvi
 
 ### Projetos UX/UI
 
-- [**Blood+** | Aplicativo Mobile de Doação de Sangue](https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue)
-- [**Lungo** | Aplicativo Mobile de Cafeteria](https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria)
+| Projeto | Descrição |
+| :--- | :--- |
+| [**Blood+**](https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue) | Aplicativo Mobile de Doação de Sangue |
+| [**Lungo**](https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria) | Aplicativo Mobile de Cafeteria |
 
 <br>
 
 ### Projetos Front-end
 
-- Em construção...
+- *Em construção...*
 
 <br>
 
@@ -29,6 +31,10 @@ Estudante de Tecnologia com foco na união entre **UX/UI Design** e **Desenvolvi
 
 <a href="https://www.linkedin.com/in/igorcmurai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.behance.net/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/-Behance-%231769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 
-<br><br>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Igorcmurai&color=blue&style=flat-square&label=PROFILE+VIEWS)
+---
+
+<br>
+
+*"Good design is actually a lot harder to notice than poor design."* — **Don Norman**
