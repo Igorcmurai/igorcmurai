@@ -21,16 +21,14 @@ Estudante de Tecnologia com foco na união entre **UX/UI Design** e **Desenvolvi
 
 ### Projetos Front-end
 
-- *Em construção...*
+- Em construção...
 
 <br>
 
 ### Onde me encontrar
 
-<a href="https://www.linkedin.com/in/igorcmurai/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-&nbsp;
-<a href="https://www.behance.net/igorcmurai" target="_blank">
-  <img src="https://img.shields.io/badge/-Behance-%231769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
-</a>
+<a href="https://www.linkedin.com/in/igorcmurai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.behance.net/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/-Behance-%231769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Igorcmurai&color=blue&style=flat-square&label=PROFILE+VIEWS)
