@@ -1,10 +1,10 @@
-# Igor C. Murai
+## Igor C. Murai
 
 Estudante de Tecnologia com foco na união entre **UX/UI Design** e **Desenvolvimento Front-end**
 
 <br>
 
-### Ferramentas
+### Ferramentas e Tecnologias
 
 | Desenvolvimento | Design |
 | :--- | :--- |
