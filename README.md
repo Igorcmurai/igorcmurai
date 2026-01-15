@@ -23,7 +23,9 @@ Estudante de Tecnologia com foco na união entre **UX/UI Design** e **Desenvolvi
 
 ### Projetos Front-end
 
-- *Em construção...*
+| Projeto | Descrição |
+| :--- | :--- |
+| Em Construção |  |
 
 <br>
 
