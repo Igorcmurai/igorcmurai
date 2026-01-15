@@ -15,9 +15,9 @@ Estudante de Tecnologia com foco na união entre **UX/UI Design** e **Desenvolvi
 ### Projetos UX/UI
 
 | Projeto | Descrição |
-| :--- | :--- |
-| [**Blood+**](https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue) | Aplicativo Mobile de Doação de Sangue |
-| [**Lungo**](https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria) | Aplicativo Mobile de Cafeteria |
+| :---: | :--- |
+| <div align="center"><img src="assets/capa_blood_github.svg" width="50"><br><a href="https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue" target="_blank"><strong>Blood+</strong></a></div> | Aplicativo Mobile de Doação de Sangue |
+| <div align="center"><img src="assets/capa_lungo_github.svg" width="50"><br><a href="https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria" target="_blank"><strong>Lungo</strong></a></div> | Aplicativo Mobile de Cafeteria |
 
 <br>
 
