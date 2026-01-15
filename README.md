@@ -32,11 +32,3 @@ Estudante de Tecnologia com foco na união entre **UX/UI Design** e **Desenvolvi
 ### Onde me encontrar
 
 <a href="https://www.linkedin.com/in/igorcmurai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.behance.net/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/-Behance-%231769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-
-<br>
-
----
-
-<br>
-
-*"Good design is actually a lot harder to notice than poor design."* — **Don Norman**
