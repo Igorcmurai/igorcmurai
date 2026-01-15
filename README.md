@@ -25,7 +25,7 @@ Estudante de Tecnologia com foco na união entre **UX/UI Design** e **Desenvolvi
 
 | Projeto | Descrição |
 | :--- | :--- |
-| Em Construção |  |
+| Em Construção... | Site To-Do Inteligente |
 
 <br>
 
