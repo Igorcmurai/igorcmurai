@@ -16,8 +16,8 @@ Estudante de tecnologia com foco na interseção entre **UX/UI Design** e **Dese
 
 | Projeto | Descrição |
 | :---: | :--- |
-| <a href="https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue" target="_blank"><img src="assets/thumb-bloodplus.png" width="240" alt="Capa do Blood+"></a><br><a href="https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue" target="_blank"><strong>Blood+</strong></a> | Blood+ - App de Doação de Sangue (UX/UI) |
-| <a href="https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria" target="_blank"><img src="assets/thumb-lungo.png" width="240" alt="Capa do Lungo"></a><br><a href="https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria" target="_blank"><strong>Lungo</strong></a> | Lungo - App de Cafeteria (UX/UI) |
+| <a href="https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue" target="_blank"><img src="assets/thumb-bloodplus.png" width="200" alt="Capa do Blood+"></a><br><a href="https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue" target="_blank"><strong>Blood+</strong></a> | Blood+ - App de Doação de Sangue (UX/UI) |
+| <a href="https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria" target="_blank"><img src="assets/thumb-lungo.png" width="200" alt="Capa do Lungo"></a><br><a href="https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria" target="_blank"><strong>Lungo</strong></a> | Lungo - App de Cafeteria (UX/UI) |
 
 <br>
 
