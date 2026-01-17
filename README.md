@@ -16,8 +16,8 @@ Technology student focused on the intersection of **UX/UI Design** and **Front-e
 
 | Project | Description |
 | :---: | :--- |
-| <div align="center"><img src="assets/icon-blood+.svg" width="50"><br><a href="https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue" target="_blank"><strong>Blood+</strong></a></div> | Mobile Blood Donation App |
-| <div align="center"><img src="assets/icon-lungo.svg" width="50"><br><a href="https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria" target="_blank"><strong>Lungo</strong></a></div> | Mobile Coffee Shop App |
+| <a href="https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue" target="_blank"><img src="assets/cover-bloodplus.png" width="240" alt="Blood+ cover"></a><br><a href="https://www.behance.net/gallery/231198865/Blood-Aplicativo-Mobile-de-Doacao-de-Sangue" target="_blank"><strong>Blood+</strong></a> | Mobile blood donation app |
+| <a href="https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria" target="_blank"><img src="assets/cover-lungo.png" width="240" alt="Lungo cover"></a><br><a href="https://www.behance.net/gallery/225020517/Lungo-Aplicativo-Mobile-de-Cafeteria" target="_blank"><strong>Lungo</strong></a> | Mobile coffee shop app |
 
 <br>
 
@@ -25,10 +25,11 @@ Technology student focused on the intersection of **UX/UI Design** and **Front-e
 
 | Project | Description |
 | :---: | :--- |
-| <div align="center"><img src="assets/icon-finder.svg" width="50"><br><a href="https://igorcmurai-github-profile-finder.vercel.app" target="_blank"><strong>Finder</strong></a></div> | GitHub Profile Finder Website |
+| <div align="center"><img src="assets/icon-finder.svg" width="50" alt="Finder icon"><br><a href="https://igorcmurai-github-profile-finder.vercel.app" target="_blank"><strong>Finder</strong></a></div> | GitHub Profile Finder website |
 
 <br>
 
 ### Where to find me
 
-<a href="https://www.linkedin.com/in/igorcmurai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.behance.net/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/-Behance-%231769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/igorcmurai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.behance.net/igorcmurai" target="_blank"><img src="https://img.shields.io/badge/-Behance-%231769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
