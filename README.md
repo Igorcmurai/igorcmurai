@@ -25,7 +25,7 @@ Estudante de tecnologia com foco na interseção entre **UX/UI Design** e **Dese
 
 | Projeto | Descrição |
 | :---: | :--- |
-| <div align="center"><img src="assets/icon-finder.svg" width="50" alt="Ícone do Finder"><br><a href="https://igorcmurai-github-profile-finder.vercel.app" target="_blank"><strong>Finder</strong></a></div> | Website para buscar perfis do GitHub |
+| <a href="https://github.com/Igorcmurai/github-profile-finder" target="_blank"><img src="assets/thumb-githubprofilefinder.png" width="200" alt="Capa do Lungo"></a><br><a href="https://github.com/Igorcmurai/github-profile-finder" target="_blank"><strong>Github Profile Finder</strong></a> | Website Localizador de perfis do GitHub |
 
 <br>
 
