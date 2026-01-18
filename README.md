@@ -2,9 +2,17 @@
 
 ### UX/UI Designer · Front-end Developer
 
-- 🎯 **Foco:** UX/UI (Mobile e Web) · Acessibilidade · Usabilidade · Design Systems
-- 🛠️ **Ferramentas:** Figma · Framer · HTML · CSS · JavaScript · Git/Github 
-- ✨ **Diferencial:** interfaces claras, consistentes e centrado ao usuário
+- **Foco:** UX/UI (Mobile e Web) · Acessibilidade · Usabilidade · Design Systems
+- **Ferramentas:** Figma · Framer · HTML · CSS · JavaScript · Git/Github 
+- **Diferencial:** interfaces claras, consistentes e centrado ao usuário
+
+<br>
+
+### Linguagens mais utilizadas
+
+<div align="start">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcmurai&layout=compact&bg_color=00000000&border_color=FFFFFF&hide_border=false&title_color=FFFFFF&text_color=FFFFFF"/>
+</div>
 
 <br>
 
