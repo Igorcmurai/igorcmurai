@@ -1,6 +1,10 @@
 # Igor C. Murai
 
-Estudante de tecnologia com foco na interseção entre **UX/UI Design** e **Desenvolvimento Front-end**
+### UX/UI Designer · Front-end Developer
+
+- 🎯 **Foco:** UX/UI (Mobile) · Acessibilidade · Usabilidade · Design Systems  
+- 🛠️ **Ferramentas:** Figma · Framer · React · JavaScript · Git/GitHub  
+- ✨ **Diferencial:** simplifico fluxos complexos em interfaces claras, consistentes e fáceis de usar  
 
 <br>
 
@@ -25,7 +29,7 @@ Estudante de tecnologia com foco na interseção entre **UX/UI Design** e **Dese
 
 | Projeto | Descrição |
 | :---: | :--- |
-| <a href="https://github.com/Igorcmurai/github-profile-finder" target="_blank"><img src="assets/thumb-githubprofilefinder.png" width="200" alt="Capa do Lungo"></a><br><a href="https://github.com/Igorcmurai/github-profile-finder" target="_blank"><strong>Github Profile Finder</strong></a> | Website Localizador de perfis do GitHub |
+| <a href="https://github.com/Igorcmurai/github-profile-finder" target="_blank"><img src="assets/thumb-githubprofilefinder.png" width="200" alt="Capa do GitHub Profile Finder"></a><br><a href="https://github.com/Igorcmurai/github-profile-finder" target="_blank"><strong>GitHub Profile Finder</strong></a> | Website localizador de perfis do GitHub |
 
 <br>
 
