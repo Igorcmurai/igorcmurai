@@ -2,17 +2,9 @@
 
 ### UX/UI Designer · Front-end Developer
 
-- 🎯 **Foco:** UX/UI (Mobile) · Acessibilidade · Usabilidade · Design Systems  
-- 🛠️ **Ferramentas:** Figma · Framer · React · JavaScript · Git/GitHub  
-- ✨ **Diferencial:** simplifico fluxos complexos em interfaces claras, consistentes e fáceis de usar  
-
-<br>
-
-### Ferramentas & Tecnologias
-
-| Desenvolvimento | Design |
-| :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+- 🎯 **Foco:** UX/UI (Mobile e Web) · Acessibilidade · Usabilidade · Design Systems
+- 🛠️ **Ferramentas:** Figma · Framer · HTML · CSS · JavaScript · Git/Github 
+- ✨ **Diferencial:** interfaces claras, consistentes e centrado ao usuário
 
 <br>
 
