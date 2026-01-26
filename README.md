@@ -29,7 +29,7 @@
 
 | Projeto | Descrição |
 | :---: | :--- |
-| <a href="https://github.com/Igorcmurai/github-profile-finder" target="_blank"><img src="assets/thumb-githubprofilefinder.png" width="200" alt="Capa do GitHub Profile Finder"></a><br><a href="https://github.com/Igorcmurai/github-profile-finder" target="_blank"><strong>GitHub Profile Finder</strong></a> | Website localizador de perfis do GitHub |
+| <a href="https://github.com/Igorcmurai/localizador-github" target="_blank"><img src="assets/thumb-localizador-github.png" width="200" alt="Capa do Localizador Github"></a><br><a href="hhttps://github.com/Igorcmurai/localizador-github" target="_blank"><strong>GitHub Profile Finder</strong></a> | Website localizador de perfis do GitHub |
 
 <br>
 
